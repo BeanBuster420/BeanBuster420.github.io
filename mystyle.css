@@ -1,7 +1,15 @@
 body {
-  background-color: #d6d6e2;
+  background-color: #777777;
 }
-p {
-  color: #000099;
+body {
+  color: #E2E2E2;
   font-family: Arial, Helvetica, sans-serif;
 }
+img.GameIcon {
+  min-width: 200px;
+  min-height: 200px;
+}
+
+.GameIcon {
+  text-align: center;
+  padding: 25px;
