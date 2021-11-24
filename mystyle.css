@@ -11,6 +11,7 @@ img.GameIcon {
 }
 
 .GameIcon {
+  float: left;
   text-align: center;
   padding: 25px;
 }
