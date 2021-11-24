@@ -3,7 +3,7 @@ body {
 }
 body {
   color: #E2E2E2;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Arial", "Helvetica", sans-serif;
 }
 img.GameIcon {
   min-width: 200px;
@@ -14,4 +14,11 @@ img.GameIcon {
   float: left;
   text-align: center;
   padding: 25px;
+}
+
+a.GameIcon span {
+  font-size: 16px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-decoration: none;
 }
