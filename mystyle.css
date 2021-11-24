@@ -13,14 +13,12 @@ img.GameIcon {
   float: left;
   text-align: center;
   padding: 25px;
-  text-decoration: none;
 }
 
 span.GameTitle {
   font-size: 16px;
   font-weight: bold;
   color: #FFFFFF;
-  text-decoration: none;
 }
 
 header {
@@ -30,4 +28,8 @@ header {
   color:#eeeeee;
   font-family: 'Helvetica', 'Arial', sans-serif;
   padding:10px 20px;
+}
+
+* {
+  text-decoration: none;
 }
