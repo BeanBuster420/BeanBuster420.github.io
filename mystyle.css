@@ -16,7 +16,7 @@ img.GameIcon {
   padding: 25px;
 }
 
-a.GameIcon span {
+div.GameIcon a span {
   font-size: 16px;
   font-weight: bold;
   color: #FFFFFF;
